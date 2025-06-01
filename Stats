@@ -776,11 +776,11 @@
             }
         ]
     },
-    "Plane Boy": {
-        "Type": "Continuous",
-        "Image": "rbxassetid://17689713814",
-        "Rarity": "Secret",
-        "PlacePrice": 20000,
+    "Kaiser": {
+        "Type": "Kaiser Impact",
+        "Image": "rbxassetid://133603842467524",
+        "Rarity": "Apex",
+        "PlacePrice": 25000,
         "Offset": 2,
         "Max": 2,
         "hitboxOffset": {
@@ -792,7 +792,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 35,
+                "Damage": 350,
                 "Cooldown": 0.05
             },
             {
@@ -810,16 +810,16 @@
             {
                 "Price": 50000,
                 "Range": 40,
-                "Damage": 65,
+                "Damage": 2400,
                 "Cooldown": 0.05
             }
         ]
     },
-    "Rockin Bonnie": {
+    "Bachira": {
         "Type": "AOE",
-        "Image": "rbxassetid://17689695988",
-        "Rarity": "Secret",
-        "PlacePrice": 500,
+        "Image": "rbxassetid://110322489661486",
+        "Rarity": "Epic",
+        "PlacePrice": 4500,
         "Max": 5,
         "hitboxOffset": {
             "X": 0,
@@ -830,7 +830,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 1000,
                 "Cooldown": 0.5
             },
             {
@@ -848,7 +848,7 @@
             {
                 "Price": 1600,
                 "Range": 20,
-                "Damage": 175,
+                "Damage": 1500,
                 "Cooldown": 0.5
             }
         ]
