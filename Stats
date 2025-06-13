@@ -231,11 +231,11 @@
                 }
             ]
         },
-    "Withered Freddy": {
-        "Type": "Continuous",
-        "Image": "rbxassetid://16632239120",
-        "Rarity": "Mythic",
-        "PlacePrice": 5000,
+    "Blasted Ennard": {
+        "Type": "This was supposed to be out 1 month ago.",
+        "Image": "rbxassetid://104338060837498",
+        "Rarity": "Nightmare",
+        "PlacePrice": 50000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -246,8 +246,8 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 14,
-                "Cooldown": 0.05
+                "Damage": 14000,
+                "Cooldown": 1
             },
             {
                 "Price": 10000,
@@ -264,8 +264,8 @@
             {
                 "Price": 25000,
                 "Range": 20,
-                "Damage": 30,
-                "Cooldown": 0.05
+                "Damage": 30000,
+                "Cooldown": 0.5
             }
         ]
     },
