@@ -3925,7 +3925,7 @@
     },
     "Galatic SpringTrap": {
         "Type": "AOE + POISON",
-        "Image": "rbxassetid://89375615643900",
+        "Image": "rbxassetid://137437761086676",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Offset": 0,
@@ -3964,7 +3964,7 @@
     },
     "Flaming SpringTrap": {
         "Type": "Burn",
-        "Image": "rbxassetid://132655301839150",
+        "Image": "rbxassetid://89375615643900",
         "Rarity": "Apex",
         "PlacePrice": 20000,
         "Offset": 0,
