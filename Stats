@@ -3752,10 +3752,10 @@
         ]
     },
 
-    "Purple Guy": {
-        "Type": "Turret Spawner",
-        "Image": "rbxassetid://74846136473322",
-        "Rarity": "Secret",
+    "Cold Bear": {
+        "Type": "Single",
+        "Image": "rbxassetid://121564013526904",
+        "Rarity": "Rare",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -3805,11 +3805,11 @@
         ]
     },
 
-   "Master Puppeteer": {
-        "Type": "Continuous Pierce",
-        "Image": "rbxassetid://139994062140962",
-        "Rarity": "Nightmare",
-        "PlacePrice": 10000,
+   "Earth Chica": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://134767920368481",
+        "Rarity": "Epic",
+        "PlacePrice": 2500,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Lethal Rebound", "Description": "Attacks hit enemies 10 times"},
@@ -3823,7 +3823,7 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1400,
-                "Cooldown": 4
+                "Cooldown": 2
             },
            {
                 "Price": 15000,
@@ -3841,15 +3841,15 @@
                 "Price": 25000,
                 "Range": 25,
                 "Damage": 2400,
-                "Cooldown": 3
+                "Cooldown": 2
             }
         ]
     },
-"Tuned Mangle": {
-        "Type": "Splash",
-        "Image": "rbxassetid://139180573868562",
-        "Rarity": "Secret",
-        "PlacePrice": 15000,
+"Flame Mangle": {
+        "Type": "Burn + Stun",
+        "Image": "rbxassetid://107476990366799",
+        "Rarity": "Mythic",
+        "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -3884,11 +3884,11 @@
             }
         ]
     },
-    "Wraith Freddy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://115627084338568",
+    "Ocean Foxy": {
+        "Type": "Splash + Slow",
+        "Image": "rbxassetid://122653439764092",
         "Rarity": "Secret",
-        "PlacePrice": 20000,
+        "PlacePrice": 15000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -3900,7 +3900,7 @@
             {
                 "Price": 0,
                 "Range": 16,
-                "Damage": 40,
+                "Damage": 200,
                 "Cooldown": 0.05
             },
            {
@@ -3918,15 +3918,15 @@
            {
                 "Price": 35000,
                 "Range": 22,
-                "Damage": 80,
+                "Damage": 350,
                 "Cooldown": 0.05
             }
         ]
     },
-    "Spectral Chica": {
-        "Type": "Splash",
-        "Image": "rbxassetid://130677986382080",
-        "Rarity": "Secret",
+    "Galatic SpringTrap": {
+        "Type": "AOE + POISON",
+        "Image": "rbxassetid://89375615643900",
+        "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 3,
@@ -3939,8 +3939,8 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 3000,
-                "Cooldown": 3
+                "Damage": 5000,
+                "Cooldown": 0.5
             },
             {
                 "Price": 20000,
@@ -3957,15 +3957,15 @@
             {
                 "Price": 30000,
                 "Range": 25,
-                "Damage": 5000,
-                "Cooldown": 2
+                "Damage": 10000,
+                "Cooldown": 0.5
             }
         ]
     },
-    "Agonized SpringTrap": {
-        "Type": "Pierce",
+    "Flaming SpringTrap": {
+        "Type": "Burn",
         "Image": "rbxassetid://132655301839150",
-        "Rarity": "Nightmare",
+        "Rarity": "Apex",
         "PlacePrice": 20000,
         "Offset": 0,
         "Max": 3,
@@ -3979,7 +3979,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1500,
-                "Cooldown": 1
+                "Cooldown": 0.05
             },
             {
                 "Price": 25000,
@@ -3996,16 +3996,16 @@
             {
                 "Price": 40000,
                 "Range": 30,
-                "Damage": 3000,
-                "Cooldown": 0.8
+                "Damage": 2500,
+                "Cooldown": 0.05
             }
         ]
     },
-   "Limitless Shadow": {
-        "Type": "Cone AOE",
-        "Image": "rbxassetid://134973909366355",
-        "Rarity": "Nightmare",
-        "PlacePrice": 14500,
+   "True Element Chica": {
+        "Type": "AOE + BURN + POISON + SLOW + PIERCE",
+        "Image": "rbxassetid://108625510843958",
+        "Rarity": "Burn",
+        "PlacePrice": 22500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -4016,8 +4016,8 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 6800,
+                "Range": 35,
+                "Damage": 100000,
                 "Cooldown": 3
             },
             {
@@ -4034,9 +4034,9 @@
             },
             {
                 "Price": 24000,
-                "Range": 20,
-                "Damage": 9000,
-                "Cooldown": 2
+                "Range": 50,
+                "Damage": 225000,
+                "Cooldown": 3
             }
         ]
     },
