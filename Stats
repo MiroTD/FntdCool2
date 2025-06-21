@@ -4040,11 +4040,11 @@
             }
         ]
     },
-    "Fractured Bonnie": {
+    "Nightmare PlushTrap": {
         "Type": "Continuous",
-        "Image": "rbxassetid://124956379444337",
-        "Rarity": "Secret",
-        "PlacePrice": 25000,
+        "Image": "rbxassetid://116399870358927",
+        "Rarity": "Nightmare",
+        "PlacePrice": 35000,
         "Offset": 0,
         "Max": 4,
         "hitboxOffset": {
@@ -4056,7 +4056,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 120,
+                "Damage": 1200,
                 "Cooldown": 0.1
             },
             {
@@ -4080,7 +4080,7 @@
             {
                 "Price": 60000,
                 "Range": 35,
-                "Damage": 250,
+                "Damage": 2500,
                 "Cooldown": 0.1
             }
         ]
