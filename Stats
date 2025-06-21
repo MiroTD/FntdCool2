@@ -3840,7 +3840,7 @@
            {
                 "Price": 25000,
                 "Range": 25,
-                "Damage": 2400,
+                "Damage": 3500,
                 "Cooldown": 2
             }
         ]
@@ -3879,7 +3879,7 @@
             {
                 "Price": 30000,
                 "Range": 25,
-                "Damage": 1200,
+                "Damage": 1500,
                 "Cooldown": 0.5
             }
         ]
@@ -3900,7 +3900,7 @@
             {
                 "Price": 0,
                 "Range": 16,
-                "Damage": 200,
+                "Damage": 150,
                 "Cooldown": 0.05
             },
            {
@@ -3918,7 +3918,7 @@
            {
                 "Price": 35000,
                 "Range": 22,
-                "Damage": 350,
+                "Damage": 300,
                 "Cooldown": 0.05
             }
         ]
@@ -3939,7 +3939,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 5000,
+                "Damage": 8000,
                 "Cooldown": 0.5
             },
             {
@@ -3957,7 +3957,7 @@
             {
                 "Price": 30000,
                 "Range": 25,
-                "Damage": 10000,
+                "Damage": 12000,
                 "Cooldown": 0.5
             }
         ]
@@ -3966,7 +3966,7 @@
         "Type": "Burn",
         "Image": "rbxassetid://89375615643900",
         "Rarity": "Apex",
-        "PlacePrice": 20000,
+        "PlacePrice": 22500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -3978,7 +3978,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1500,
+                "Damage": 1000,
                 "Cooldown": 0.05
             },
             {
@@ -3996,16 +3996,16 @@
             {
                 "Price": 40000,
                 "Range": 30,
-                "Damage": 2500,
+                "Damage": 2000,
                 "Cooldown": 0.05
             }
         ]
     },
    "True Element Chica": {
-        "Type": "AOE + BURN + POISON + SLOW + PIERCE",
+        "Type": "AOE + BURN + POISON + SLOW + PIERCE + STUN + SPLASH + CONE 90",
         "Image": "rbxassetid://108625510843958",
         "Rarity": "Burn",
-        "PlacePrice": 22500,
+        "PlacePrice": 18000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -4016,9 +4016,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 35,
-                "Damage": 100000,
-                "Cooldown": 3
+                "Range": 65,
+                "Damage": 200000,
+                "Cooldown": 4
             },
             {
                 "Price": 17000,
@@ -4034,9 +4034,9 @@
             },
             {
                 "Price": 24000,
-                "Range": 50,
-                "Damage": 225000,
-                "Cooldown": 3
+                "Range": 85,
+                "Damage": 500000,
+                "Cooldown": 4
             }
         ]
     },
