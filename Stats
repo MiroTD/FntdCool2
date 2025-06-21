@@ -3965,7 +3965,7 @@
     "Flaming SpringTrap": {
         "Type": "Burn + Slow",
         "Image": "rbxassetid://89375615643900",
-        "Rarity": "Uncommon",
+        "Rarity": "Apex",
         "PlacePrice": 22500,
         "Offset": 0,
         "Max": 3,
@@ -4002,7 +4002,7 @@
         ]
     },
    "True Element Chica": {
-        "Type": "AOE + BURN + POISON + SLOW + PIERCE + STUN + SPLASH + CONE 90",
+        "Type": "AOE + BURN + POISON + SLOW + PIERCE + STUN + SPLASH + CONE 90 + CONE PASSIGE + TARNISH + OHIO + SHIT",
         "Image": "rbxassetid://108625510843958",
         "Rarity": "Burn",
         "PlacePrice": 18000,
